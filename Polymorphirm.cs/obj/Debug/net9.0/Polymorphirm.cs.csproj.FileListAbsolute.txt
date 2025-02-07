@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\bin\Debug\net9.0\Polymorphirm.cs.exe
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\bin\Debug\net9.0\Polymorphirm.cs.deps.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\bin\Debug\net9.0\Polymorphirm.cs.runtimeconfig.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\bin\Debug\net9.0\Polymorphirm.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\bin\Debug\net9.0\Polymorphirm.cs.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\obj\Debug\net9.0\Polymorphirm.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\obj\Debug\net9.0\Polymorphirm.cs.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\obj\Debug\net9.0\Polymorphirm.cs.AssemblyInfo.cs
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\obj\Debug\net9.0\Polymorphirm.cs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\obj\Debug\net9.0\Polymorphirm.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\obj\Debug\net9.0\refint\Polymorphirm.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\obj\Debug\net9.0\Polymorphirm.cs.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\obj\Debug\net9.0\Polymorphirm.cs.genruntimeconfig.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Polymorphirm.cs\obj\Debug\net9.0\ref\Polymorphirm.cs.dll

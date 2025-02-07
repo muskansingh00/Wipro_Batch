@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\bin\Debug\net9.0\Inheritance.cs.exe
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\bin\Debug\net9.0\Inheritance.cs.deps.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\bin\Debug\net9.0\Inheritance.cs.runtimeconfig.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\bin\Debug\net9.0\Inheritance.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\bin\Debug\net9.0\Inheritance.cs.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\obj\Debug\net9.0\Inheritance.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\obj\Debug\net9.0\Inheritance.cs.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\obj\Debug\net9.0\Inheritance.cs.AssemblyInfo.cs
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\obj\Debug\net9.0\Inheritance.cs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\obj\Debug\net9.0\Inheritance.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\obj\Debug\net9.0\refint\Inheritance.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\obj\Debug\net9.0\Inheritance.cs.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\obj\Debug\net9.0\Inheritance.cs.genruntimeconfig.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Inheritance\Inheritance.cs\obj\Debug\net9.0\ref\Inheritance.cs.dll

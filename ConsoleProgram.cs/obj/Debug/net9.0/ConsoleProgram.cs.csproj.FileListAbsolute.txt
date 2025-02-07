@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\bin\Debug\net9.0\ConsoleProgram.cs.exe
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\bin\Debug\net9.0\ConsoleProgram.cs.deps.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\bin\Debug\net9.0\ConsoleProgram.cs.runtimeconfig.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\bin\Debug\net9.0\ConsoleProgram.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\bin\Debug\net9.0\ConsoleProgram.cs.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\obj\Debug\net9.0\ConsoleProgram.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\obj\Debug\net9.0\ConsoleProgram.cs.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\obj\Debug\net9.0\ConsoleProgram.cs.AssemblyInfo.cs
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\obj\Debug\net9.0\ConsoleProgram.cs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\obj\Debug\net9.0\ConsoleProgram.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\obj\Debug\net9.0\refint\ConsoleProgram.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\obj\Debug\net9.0\ConsoleProgram.cs.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\obj\Debug\net9.0\ConsoleProgram.cs.genruntimeconfig.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\ConsoleProgram.cs\obj\Debug\net9.0\ref\ConsoleProgram.cs.dll

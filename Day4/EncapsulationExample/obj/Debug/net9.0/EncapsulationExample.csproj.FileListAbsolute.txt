@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\obj\Debug\net9.0\EncapsulationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\obj\Debug\net9.0\EncapsulationExample.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\obj\Debug\net9.0\EncapsulationExample.AssemblyInfo.cs
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\obj\Debug\net9.0\EncapsulationExample.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\bin\Debug\net9.0\EncapsulationExample.exe
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\bin\Debug\net9.0\EncapsulationExample.deps.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\bin\Debug\net9.0\EncapsulationExample.runtimeconfig.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\bin\Debug\net9.0\EncapsulationExample.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\bin\Debug\net9.0\EncapsulationExample.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\obj\Debug\net9.0\EncapsulationExample.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\obj\Debug\net9.0\refint\EncapsulationExample.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\obj\Debug\net9.0\EncapsulationExample.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\obj\Debug\net9.0\EncapsulationExample.genruntimeconfig.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Day4\EncapsulationExample\obj\Debug\net9.0\ref\EncapsulationExample.dll

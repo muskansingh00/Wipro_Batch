@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\bin\Debug\net9.0\Stack_Queue.cs.exe
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\bin\Debug\net9.0\Stack_Queue.cs.deps.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\bin\Debug\net9.0\Stack_Queue.cs.runtimeconfig.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\bin\Debug\net9.0\Stack_Queue.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\bin\Debug\net9.0\Stack_Queue.cs.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\obj\Debug\net9.0\Stack_Queue.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\obj\Debug\net9.0\Stack_Queue.cs.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\obj\Debug\net9.0\Stack_Queue.cs.AssemblyInfo.cs
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\obj\Debug\net9.0\Stack_Queue.cs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\obj\Debug\net9.0\Stack_Queue.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\obj\Debug\net9.0\refint\Stack_Queue.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\obj\Debug\net9.0\Stack_Queue.cs.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\obj\Debug\net9.0\Stack_Queue.cs.genruntimeconfig.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Stack_Queue.cs\obj\Debug\net9.0\ref\Stack_Queue.cs.dll

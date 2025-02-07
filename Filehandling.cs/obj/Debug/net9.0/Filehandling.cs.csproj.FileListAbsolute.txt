@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\obj\Debug\net9.0\Filehandling.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\obj\Debug\net9.0\Filehandling.cs.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\obj\Debug\net9.0\Filehandling.cs.AssemblyInfo.cs
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\obj\Debug\net9.0\Filehandling.cs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\bin\Debug\net9.0\Filehandling.cs.exe
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\bin\Debug\net9.0\Filehandling.cs.deps.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\bin\Debug\net9.0\Filehandling.cs.runtimeconfig.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\bin\Debug\net9.0\Filehandling.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\bin\Debug\net9.0\Filehandling.cs.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\obj\Debug\net9.0\Filehandling.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\obj\Debug\net9.0\refint\Filehandling.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\obj\Debug\net9.0\Filehandling.cs.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\obj\Debug\net9.0\Filehandling.cs.genruntimeconfig.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\Filehandling.cs\obj\Debug\net9.0\ref\Filehandling.cs.dll

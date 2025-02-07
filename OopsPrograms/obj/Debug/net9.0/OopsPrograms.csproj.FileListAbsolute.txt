@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\obj\Debug\net9.0\OopsPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\obj\Debug\net9.0\OopsPrograms.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\obj\Debug\net9.0\OopsPrograms.AssemblyInfo.cs
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\obj\Debug\net9.0\OopsPrograms.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\bin\Debug\net9.0\OopsPrograms.exe
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\bin\Debug\net9.0\OopsPrograms.deps.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\bin\Debug\net9.0\OopsPrograms.runtimeconfig.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\bin\Debug\net9.0\OopsPrograms.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\bin\Debug\net9.0\OopsPrograms.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\obj\Debug\net9.0\OopsPrograms.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\obj\Debug\net9.0\refint\OopsPrograms.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\obj\Debug\net9.0\OopsPrograms.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\obj\Debug\net9.0\OopsPrograms.genruntimeconfig.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\OopsPrograms\obj\Debug\net9.0\ref\OopsPrograms.dll

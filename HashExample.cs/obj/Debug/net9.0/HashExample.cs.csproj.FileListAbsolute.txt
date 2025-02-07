@@ -1,0 +1,4 @@
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\HashExample.cs\obj\Debug\net9.0\HashExample.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\HashExample.cs\obj\Debug\net9.0\HashExample.cs.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\HashExample.cs\obj\Debug\net9.0\HashExample.cs.AssemblyInfo.cs
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\HashExample.cs\obj\Debug\net9.0\HashExample.cs.csproj.CoreCompileInputs.cache

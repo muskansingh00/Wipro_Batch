@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\bin\Debug\net9.0\AbstractionExample.cs.exe
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\bin\Debug\net9.0\AbstractionExample.cs.deps.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\bin\Debug\net9.0\AbstractionExample.cs.runtimeconfig.json
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\bin\Debug\net9.0\AbstractionExample.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\bin\Debug\net9.0\AbstractionExample.cs.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\obj\Debug\net9.0\AbstractionExample.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\obj\Debug\net9.0\AbstractionExample.cs.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\obj\Debug\net9.0\AbstractionExample.cs.AssemblyInfo.cs
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\obj\Debug\net9.0\AbstractionExample.cs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\obj\Debug\net9.0\AbstractionExample.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\obj\Debug\net9.0\refint\AbstractionExample.cs.dll
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\obj\Debug\net9.0\AbstractionExample.cs.pdb
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\obj\Debug\net9.0\AbstractionExample.cs.genruntimeconfig.cache
+C:\Users\ASUS\Documents\VSPurple\ConsoleApp1\AbstractionExample.cs\obj\Debug\net9.0\ref\AbstractionExample.cs.dll
